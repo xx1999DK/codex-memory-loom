@@ -24,6 +24,6 @@
   <circle cx="860" cy="200" r="8" fill="#48B9A6"/>
   <text x="886" y="195" fill="white" font-family="Arial, sans-serif" font-size="18" font-weight="700">KNOWLEDGE LINKS</text>
   <text x="886" y="221" fill="#B6D3CE" font-family="Arial, sans-serif" font-size="14">Find only what matters now</text>
-  <rect x="746" y="264" width="328" height="60" rx="16" fill="#DFEEE5"/>
+  <rect x="746" y="264" width="368" height="60" rx="16" fill="#DFEEE5"/>
   <text x="774" y="301" fill="#17695E" font-family="Arial, sans-serif" font-size="18" font-weight="700">DIRECTION · DECISIONS · EVIDENCE</text>
 </svg>
