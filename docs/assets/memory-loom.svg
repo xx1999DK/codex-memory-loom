@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none">
+  <title>Memory Loom · 项目织忆</title>
+  <desc>Project-local memory for Codex. Tasks, knowledge links, and direction summaries woven together.</desc>
+  <rect width="1200" height="360" rx="24" fill="#F6F4ED"/>
+  <path d="M800 0v360M920 0v360M1040 0v360M1160 0v360M760 60h440M760 180h440M760 300h440" stroke="#DDE5DD" stroke-width="1"/>
+  <rect x="64" y="58" width="64" height="64" rx="16" fill="#132835"/>
+  <path d="M82 76v28M96 72v36M110 76v28" stroke="#48B9A6" stroke-width="6" stroke-linecap="round"/>
+  <path d="M78 82h36M78 98h36" stroke="#F3EBD9" stroke-width="6" stroke-linecap="round"/>
+  <path d="M82 76v12M96 94v14M110 76v12" stroke="#48B9A6" stroke-width="6" stroke-linecap="round"/>
+  <text x="148" y="98" fill="#128C7E" font-family="Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="3">A CODEX SKILL</text>
+  <text x="64" y="196" fill="#132835" font-family="Arial, sans-serif" font-size="66" font-weight="700" letter-spacing="-2">Memory Loom</text>
+  <text x="66" y="242" fill="#425B64" font-family="system-ui, sans-serif" font-size="24">项目织忆 · 让项目经验沿着任务延续</text>
+  <text x="66" y="300" fill="#6D7D7D" font-family="Arial, sans-serif" font-size="16">LOCAL FILES</text>
+  <circle cx="192" cy="294" r="3" fill="#128C7E"/>
+  <text x="210" y="300" fill="#6D7D7D" font-family="Arial, sans-serif" font-size="16">SELECTIVE RECALL</text>
+  <circle cx="390" cy="294" r="3" fill="#128C7E"/>
+  <text x="408" y="300" fill="#6D7D7D" font-family="Arial, sans-serif" font-size="16">PROJECT BY PROJECT</text>
+  <path d="M790 107h40v72h40M900 220v40h100" stroke="#128C7E" stroke-width="3" stroke-linecap="round"/>
+  <rect x="734" y="60" width="264" height="84" rx="16" fill="white" stroke="#D6E0DA"/>
+  <rect x="766" y="84" width="10" height="36" rx="5" fill="#128C7E"/>
+  <text x="794" y="96" fill="#132835" font-family="Arial, sans-serif" font-size="18" font-weight="700">TASK RECORDS</text>
+  <text x="794" y="122" fill="#6D7D7D" font-family="Arial, sans-serif" font-size="14">Current state + useful history</text>
+  <rect x="826" y="158" width="288" height="84" rx="16" fill="#132835"/>
+  <circle cx="860" cy="200" r="8" fill="#48B9A6"/>
+  <text x="886" y="195" fill="white" font-family="Arial, sans-serif" font-size="18" font-weight="700">KNOWLEDGE LINKS</text>
+  <text x="886" y="221" fill="#B6D3CE" font-family="Arial, sans-serif" font-size="14">Find only what matters now</text>
+  <rect x="746" y="264" width="328" height="60" rx="16" fill="#DFEEE5"/>
+  <text x="774" y="301" fill="#17695E" font-family="Arial, sans-serif" font-size="18" font-weight="700">DIRECTION · DECISIONS · EVIDENCE</text>
+</svg>

@@ -1,0 +1,7 @@
+interface:
+  display_name: "Memory Loom · 项目织忆"
+  short_description: "建立项目独立的长期记忆，按需检索历史、续写任务并维护导航与方向总结"
+  default_prompt: "使用 $memory-loom 为当前项目启用独立长记忆，并按需接续历史任务。"
+  icon_small: "./assets/icon.svg"
+  icon_large: "./assets/icon.svg"
+  brand_color: "#128C7E"
